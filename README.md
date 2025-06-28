@@ -4,7 +4,7 @@ Welcome to my profile!👋
 I use this GitHub account to share projects that reflect my journey as a BSCS student. I'm passionate about networks and cybersecurity, and I enjoy working with Java. Lately, I've been exploring the low-level side of computing through assembly language and digital circuits. I also creae websites for fun!
 
 BADGES
-![Image alt](https://github.com/C12ux/C12ux/blob/4a07be5b699be0b8c26f94228b98b49fa99211b1/Craking%20into%20HTB.webp)
+<img src="https://github.com/C12ux/C12ux/blob/4a07be5b699be0b8c26f94228b98b49fa99211b1/Craking%20into%20HTB.webp" alt="Image alt" width="300"/>
 <!--
 **C12ux/C12ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
