@@ -1,7 +1,7 @@
 Welcome to my profile!👋
 
 
-I use this GitHub account to share projects that reflect my journey as a BSCS student. I'm passionate about networks and cybersecurity, and I enjoy working with Java. Lately, I've been exploring the low-level side of computing through assembly language and digital circuits. I also creae websites for fun!
+I use this GitHub account to share projects that reflect my journey as a BSCS student. I'm passionate about networks and cybersecurity, and i enjoy programming. Lately, I've been exploring the low-level side of computing through assembly language and digital circuits.
 
 BADGES
 
