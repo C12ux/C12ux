@@ -15,7 +15,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## 🏅 Badges & Cool Stuff
+## Badges & Cool Stuff
 
 <div align="center">
   <img src="https://github.com/C12ux/C12ux/blob/4a07be5b699be0b8c26f94228b98b49fa99211b1/Craking%20into%20HTB.webp" alt="Cracking into HTB" width="200"/>
@@ -25,7 +25,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## 🧰 Tools of the Trade
+## Tools Used
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C12ux&show_icons=true&theme=tokyonight" width="450"/>
@@ -46,7 +46,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 - 📬 Email: [cruzadojohncarls9@gmail.com](mailto:cruzadojohncarls9@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/cruzado-john-carls-aa8087338](https://www.linkedin.com/in/cruzado-john-carls-aa8087338/)
