@@ -37,7 +37,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## 📈 GitHub Stats (Because we like flexing)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C12ux&show_icons=true&theme=tokyonight" width="450"/>
@@ -48,11 +48,10 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ## 🔗 Connect with Me
 
-- 📬 Email: [you@example.com](mailto:you@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+- 📬 Email: [cruzadojohncarls9@gmail.com](mailto:cruzadojohncarls9@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/cruzado-john-carls-aa8087338](https://www.linkedin.com/in/cruzado-john-carls-aa8087338/)
 - 🎯 TryHackMe/HTB: DM me for my hacker profiles 😉
 
 ---
 
 > ⚡ *"Code like it's the only thing keeping the matrix from collapsing."*
-
