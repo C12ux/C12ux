@@ -17,8 +17,17 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 ## Badges & Cool Stuff
 
 <div align="center">
+  <a href="https://www.credly.com/badges/712fd781-6863-443d-adf9-bbc419534f5f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/ef78ce38-bd53-4e02-b2c5-7a2fb605d6e3/image.png" alt="Credly Badge" width="150" height="150"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github.com/C12ux/C12ux/blob/4a07be5b699be0b8c26f94228b98b49fa99211b1/Craking%20into%20HTB.webp" alt="Cracking into HTB" width="200"/>
 </div>
+
+> *More coming soon... stay tuned!*
+
 
 > *More coming soon... stay tuned!*
 
