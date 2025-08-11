@@ -24,10 +24,6 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 </p>
 
 > *More coming soon... stay tuned!*
-
-
-> *More coming soon... stay tuned!*
-
 ---
 
 ## Tools Used
