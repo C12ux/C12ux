@@ -2,7 +2,7 @@
 
 Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Science. This GitHub is where I share my ongoing journey as a **BSCS student** — from side-projects to serious builds.
 
-**Passionate about:**  
+**Interests:**  
 - Networks & Cybersecurity  
 - Low-level Programming 
 - Digital Circuits & Computer Architecture  
@@ -77,4 +77,4 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-> *"Code like jhong pagong 🐢."*
+> *"Jhong pagong 🐢."*
