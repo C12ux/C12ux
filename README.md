@@ -14,16 +14,8 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 
 ---
 
-## Badges & Cool Stuff
-
-<p align="left">
-  <a href="https://www.credly.com/badges/712fd781-6863-443d-adf9-bbc419534f5f/public_url">
-    <img src="I2CS__1_.png" alt="Credly Badge" width="200" height="200"/>
-  </a>
-  <img src="https://github.com/C12ux/C12ux/blob/4a07be5b699be0b8c26f94228b98b49fa99211b1/Craking%20into%20HTB.webp" alt="Cracking into HTB" width="200" height="200"/>
-</p>
-
-> *More coming soon... stay tuned!*
+## Badges on Credly
+Check out all my badges here: [My Credly Profile](https://www.credly.com/users/john-carls-cruzado/badges)
 ---
 
 ## Tools Used
