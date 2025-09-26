@@ -65,7 +65,6 @@ Check out all my badges here: [Credly Profile](https://www.credly.com/users/john
 
 - Email: [cruzadojohncarls9@gmail.com](mailto:cruzadojohncarls9@gmail.com)
 - LinkedIn: [linkedin.com/in/cruzado-john-carls-aa8087338](https://www.linkedin.com/in/cruzado-john-carls-aa8087338/)
-- TryHackMe/HTB: DM me for my hacker profiles 
 
 ---
 
