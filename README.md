@@ -15,7 +15,7 @@ Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Scienc
 ---
 
 ## Badges on Credly
-Check out all my badges here: [My Credly Profile](https://www.credly.com/users/john-carls-cruzado/badges)
+Check out all my badges here: [Credly Profile](https://www.credly.com/users/john-carls-cruzado/badges)
 ---
 
 ## Tools Used
