@@ -56,7 +56,7 @@ Check out all my badges here: [Credly Profile](https://www.credly.com/users/john
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C12ux&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C12ux&theme=tokyonight" width="450"/>
+  <img src="https://streak-stats.demolab.com/?user=C12ux&theme=tokyonight" width="450"/>
 </p>
 
 ---
