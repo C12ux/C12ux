@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Science. This GitHub is where I share my ongoing journey as a **BSCS student** — from side-projects to serious builds.
+Hey there! I'm **C12ux**, a curious soul navigating the world of Computer Science. This GitHub is where I share my ongoing journey as a **BSCS graduate** — from side-projects to serious builds.
 
 **Interests:**  
 - Networks & Cybersecurity  
